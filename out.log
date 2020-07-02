@@ -1,0 +1,112 @@
+2020-06-25 12:29:17 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-06-25 12:29:17 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-06-25 12:29:17 INFO  PluginTasksProjectComponent.setAutoscrolls(366) - Autoscrolls successfully set
+2020-06-25 12:29:17 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-06-25 12:29:18 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-06-25 12:29:18 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-06-25 12:29:18 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-06-25 12:29:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-06-25 12:29:19 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-06-25 12:29:19 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-06-25 12:29:19 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-06-25 12:29:19 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-06-25 12:31:43 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-06-25 12:36:37 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-06-25 12:36:37 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-06-25 12:36:37 INFO  PluginTasksProjectComponent.setAutoscrolls(366) - Autoscrolls successfully set
+2020-06-25 12:36:37 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-06-25 12:36:37 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-06-25 12:36:37 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-06-25 12:36:37 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-06-25 12:36:38 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-06-25 12:36:38 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-06-25 12:36:38 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-06-25 12:36:38 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-06-25 12:36:38 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-06-25 18:01:14 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-06-26 14:50:36 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-06-26 14:50:36 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-06-26 14:50:37 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-06-26 14:50:37 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-06-26 14:50:38 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-06-26 14:50:38 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-06-26 14:50:38 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-06-26 14:50:40 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-06-26 14:50:40 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-06-26 14:50:40 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-06-26 14:50:40 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-06-26 18:32:00 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-06-28 11:33:21 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-06-28 11:33:21 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-06-28 11:33:21 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-06-28 11:33:21 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-06-28 11:33:22 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-06-28 11:33:22 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-06-28 11:33:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-06-28 11:33:24 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-06-28 11:33:24 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-06-28 11:33:24 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-06-28 11:33:24 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-06-29 00:57:51 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-06-29 11:51:04 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-06-29 11:51:04 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-06-29 11:51:04 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-06-29 11:51:05 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-06-29 11:51:05 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-06-29 11:51:05 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-06-29 11:51:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-06-29 11:51:07 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-06-29 11:51:07 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-06-29 11:51:07 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-06-29 11:51:07 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-06-29 17:32:58 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-06-30 13:28:50 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-06-30 13:28:50 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-06-30 13:28:51 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-06-30 13:28:51 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-06-30 13:28:52 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-06-30 13:28:52 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-06-30 13:28:52 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-06-30 13:28:53 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-06-30 13:28:53 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-06-30 13:28:53 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-06-30 13:28:53 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-06-30 17:17:00 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-07-01 13:57:52 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-07-01 13:57:52 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-07-01 13:57:52 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-07-01 13:57:52 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-07-01 13:57:53 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-07-01 13:57:53 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-07-01 13:57:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-07-01 13:57:55 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-07-01 13:57:55 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-07-01 13:57:56 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-07-01 13:57:56 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-07-01 16:44:07 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-07-02 13:05:30 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-07-02 13:05:30 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-07-02 13:05:30 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-07-02 13:05:31 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-07-02 13:05:32 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-07-02 13:05:32 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-07-02 13:05:32 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-07-02 13:05:33 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-07-02 13:05:34 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-07-02 13:05:34 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-07-02 13:05:34 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
