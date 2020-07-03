@@ -110,3 +110,45 @@
 2020-07-02 13:05:34 INFO  ApacheHttpClient.login(240) - responseCode = 200
 2020-07-02 13:05:34 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
 2020-07-02 13:05:34 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-07-02 16:00:02 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-07-02 20:43:40 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-07-02 20:43:40 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-07-02 20:43:40 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-07-02 20:43:40 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-07-02 20:43:42 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-07-02 20:43:42 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-07-02 20:43:42 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-07-02 20:43:43 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-07-02 20:43:43 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-07-02 20:43:43 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-07-02 20:43:43 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-07-02 21:18:03 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-07-02 23:08:18 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-07-02 23:08:18 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-07-02 23:08:19 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-07-02 23:08:19 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-07-02 23:08:20 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-07-02 23:08:20 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-07-02 23:08:21 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-07-02 23:08:22 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-07-02 23:08:22 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-07-02 23:08:22 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-07-02 23:08:22 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-07-03 01:35:08 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-07-03 14:38:27 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-07-03 14:38:27 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2020-07-03 14:38:27 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2020-07-03 14:38:27 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2020-07-03 14:38:29 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2020-07-03 14:38:29 INFO  ApacheHttpClient.testConnection(206) - result = true
+2020-07-03 14:38:29 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2020-07-03 14:38:30 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2020-07-03 14:38:30 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2020-07-03 14:38:30 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2020-07-03 14:38:30 ERROR ApacheHttpClient.refreshUserInfo(301) - Error while updating user information. : com.fasterxml.jackson.databind.exc.MismatchedInputException
